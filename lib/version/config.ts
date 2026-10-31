@@ -7,7 +7,7 @@ export interface VersionCheckConfig {
   disabled: boolean
 }
 
-const DEFAULT_REPO = 'miurla/morphic'
+const DEFAULT_REPO = 'tuanphilip/rosearch'
 const DEFAULT_TTL_SECONDS = 86400
 const MIN_TTL_SECONDS = 300
 const REPO_PATTERN = /^[\w.-]+\/[\w.-]+$/
